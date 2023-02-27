@@ -1,0 +1,11 @@
+.masthead {
+  display: table;
+  width: 100%;
+  height: auto;
+  padding: 200px 0;
+  text-align: center;
+  color: #fff;
+  background-color: #000;
+  background-size: cover;
+}
+
